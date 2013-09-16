@@ -5,12 +5,6 @@
   "dependencies": {
     "coffee-script": "1.6.x"
   },
-
-
-
-lol
-
-
   "engines": {
     "node": "0.10.x",
     "npm":  "1.2.x"
