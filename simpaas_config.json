@@ -1,0 +1,4 @@
+{
+	"commands" : [{"web" : "coffee app.coffee"}],
+	"buildpack_repo" : "https://github.com/heroku/heroku-buildpack-nodejs.git"
+}
